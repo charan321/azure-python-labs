@@ -80,8 +80,4 @@ In this lab, you will learn how to train and track a machine learning model on a
 - Resubmit and track your metrics in the Azure Machine Learning studio.
 
 [Training Digit Recognition Model with Azure Machine Learning lab](9-azure-machine-learning/README.md)
-
-
 ---
-
-## [MORE](MORE.md) | [2020](2020/README.md) | [2019](2019/README.md)
